@@ -1,2 +1,2 @@
-# slavni96.github.io
-Personal web site
+# http-slavni96.github.io-
+Personal website
